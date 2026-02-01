@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+streamlit
+requests
+
+python-jose
+passlib[bcrypt]
